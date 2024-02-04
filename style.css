@@ -1,0 +1,27 @@
+/* TOP SECTION */
+
+aside{
+
+    width:80%;
+    padding: 20px;
+    background: rgb(4, 52, 4);
+    color: aliceblue;
+    border: 5px solid rgb(215, 239, 79);
+    margin-left: 2px;
+}
+
+/* MAIN SECTION */
+
+main img {
+    width: 200px;
+    height: auto;
+}
+p{
+padding: 0;
+
+}
+img {
+	
+	float:right;
+}
+  
